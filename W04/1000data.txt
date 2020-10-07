@@ -1,0 +1,1000 @@
+Cheese, Chips, Peanut, Bread
+Jam, Soda
+Bread
+Chips
+Milk, Jam, Peanut, Fruit, Chips, Cheese
+Cheese, Fruit, Soda, Jam, Peanut
+Chips, Milk
+Peanut, Bread, Chips, Soda
+Bread, Chips
+Jam, Milk, Bread
+Chips, Soda, Jam, Fruit, Milk
+Chips, Fruit, Peanut, Jam, Milk
+Milk
+Fruit, Bread, Soda
+Soda, Jam, Cheese, Peanut, Fruit, Chips
+Chips, Jam, Fruit, Peanut, Milk, Soda, Bread
+Chips, Peanut, Bread, Cheese
+Peanut
+Jam, Cheese
+Bread, Soda, Cheese, Jam
+Fruit, Soda, Peanut, Bread, Jam, Milk
+Jam, Peanut, Fruit
+Jam, Bread, Milk, Peanut, Fruit, Cheese, Soda, Chips
+Fruit, Bread, Soda, Milk, Jam, Peanut
+Fruit, Bread, Peanut, Soda, Cheese, Chips
+Soda, Fruit
+Milk, Soda
+Cheese, Milk, Chips, Peanut, Bread, Fruit, Jam
+Bread, Peanut, Fruit, Soda, Cheese, Jam, Milk
+Bread, Cheese, Jam, Milk, Chips, Peanut
+Cheese, Bread, Fruit, Chips, Jam
+Chips, Milk, Fruit, Soda
+Milk, Chips
+Peanut, Cheese, Fruit, Soda, Chips, Bread
+Soda, Fruit, Bread, Jam, Peanut, Cheese
+Fruit, Milk, Soda
+Bread, Jam
+Jam, Chips, Milk, Cheese, Soda, Bread, Peanut, Fruit
+Soda, Milk, Peanut, Fruit, Jam
+Bread, Soda
+Jam, Soda, Milk, Bread, Chips, Fruit, Cheese, Peanut
+Bread, Soda, Jam, Milk, Peanut, Chips
+Soda, Bread, Cheese, Peanut, Milk, Fruit, Jam
+Soda, Jam, Milk, Chips, Cheese, Peanut, Fruit
+Milk, Bread, Soda
+Fruit, Cheese, Chips, Jam
+Peanut, Soda, Jam, Milk
+Jam, Cheese, Fruit, Soda, Bread, Milk, Chips
+Peanut, Soda, Fruit
+Milk, Soda, Cheese, Chips, Bread, Peanut, Jam
+Jam, Cheese, Milk, Soda
+Peanut, Cheese
+Jam
+Chips, Peanut, Cheese, Soda, Milk, Bread
+Soda, Jam, Cheese, Peanut, Milk
+Soda, Chips, Jam
+Soda, Peanut
+Fruit, Jam, Peanut, Soda
+Peanut, Chips, Milk, Fruit, Bread, Soda
+Soda, Bread, Chips, Fruit
+Fruit, Soda, Chips, Bread, Cheese, Jam, Milk
+Bread, Soda
+Chips, Fruit, Milk, Bread, Jam
+Cheese, Chips, Bread, Jam, Peanut, Milk, Soda
+Milk, Fruit
+Chips, Fruit, Milk, Cheese, Jam, Bread
+Bread, Jam, Chips, Fruit, Soda, Peanut
+Bread, Soda, Jam, Fruit, Peanut, Chips, Cheese
+Milk, Cheese, Peanut
+Peanut, Bread, Fruit, Soda, Cheese, Jam, Milk, Chips
+Milk, Jam, Peanut, Bread, Fruit, Chips
+Cheese, Milk, Fruit, Peanut, Soda, Chips
+Cheese, Peanut, Fruit, Bread, Soda, Chips, Milk
+Jam, Peanut, Chips, Milk, Soda, Fruit, Cheese
+Milk, Jam, Chips, Cheese, Fruit, Soda
+Cheese, Peanut, Soda
+Peanut, Milk, Fruit, Cheese, Jam, Bread, Chips, Soda
+Chips, Fruit, Soda, Milk, Cheese, Peanut, Jam, Bread
+Peanut, Milk, Bread, Cheese, Soda, Chips, Fruit
+Jam
+Jam, Chips, Bread
+Milk, Peanut, Jam, Bread
+Bread, Cheese, Jam, Milk, Fruit, Peanut, Soda
+Fruit, Bread, Jam, Soda, Chips, Milk, Peanut
+Chips, Soda, Bread, Fruit, Milk
+Fruit
+Milk, Chips
+Chips, Peanut, Milk, Fruit, Jam, Cheese, Bread, Soda
+Milk, Chips, Soda, Bread, Cheese, Jam, Peanut
+Bread
+Milk, Cheese, Soda, Jam, Chips
+Chips, Bread, Cheese, Milk, Fruit, Jam, Soda
+Fruit
+Jam, Chips, Cheese, Bread, Soda, Peanut, Fruit
+Cheese, Soda, Fruit, Chips, Peanut, Bread, Milk
+Soda, Jam, Peanut
+Bread, Chips, Soda, Fruit, Peanut, Milk
+Jam
+Jam, Milk, Bread, Fruit, Peanut, Soda
+Cheese, Fruit, Bread, Peanut, Soda, Milk, Jam, Chips
+Peanut
+Fruit, Bread, Soda
+Fruit, Peanut, Milk, Chips
+Milk, Soda, Cheese, Peanut
+Milk, Soda, Jam, Peanut, Bread, Cheese
+Chips, Peanut
+Jam, Bread, Peanut, Chips, Cheese, Fruit, Soda, Milk
+Fruit, Chips, Milk, Jam, Peanut, Bread, Cheese
+Bread, Chips, Cheese, Jam
+Milk, Cheese, Chips
+Chips, Milk, Bread, Jam, Fruit, Peanut, Soda, Cheese
+Jam, Chips, Bread, Milk, Fruit, Soda
+Soda, Jam, Milk, Bread, Cheese
+Chips, Soda, Bread, Jam, Peanut, Milk, Fruit
+Fruit
+Soda, Peanut, Chips, Bread, Jam, Cheese, Fruit
+Cheese, Chips, Jam, Milk, Fruit, Peanut, Bread
+Jam, Chips, Bread, Peanut, Fruit, Cheese, Milk, Soda
+Peanut, Milk, Cheese, Bread, Fruit, Chips, Soda
+Chips
+Cheese, Bread
+Chips, Soda, Milk, Fruit, Peanut, Jam, Cheese
+Peanut, Bread
+Bread, Chips
+Soda, Jam, Peanut
+Milk
+Peanut, Cheese, Bread, Chips, Milk
+Milk, Jam
+Jam, Chips, Bread, Cheese
+Chips, Soda, Cheese, Jam, Milk, Fruit, Peanut
+Jam, Soda, Chips, Cheese, Milk, Bread, Peanut
+Peanut, Fruit, Chips
+Chips, Cheese, Fruit, Bread, Jam, Milk, Soda
+Cheese, Bread
+Jam, Milk, Chips, Cheese, Peanut, Bread, Soda, Fruit
+Cheese, Jam, Chips, Fruit, Milk, Soda, Peanut, Bread
+Jam
+Fruit, Bread, Peanut, Cheese, Chips, Soda
+Jam, Soda, Chips, Peanut, Milk, Fruit
+Cheese, Chips
+Bread, Soda, Chips, Milk
+Jam
+Milk, Fruit, Soda, Peanut, Cheese, Bread, Chips
+Milk, Bread, Chips
+Peanut, Cheese, Chips, Soda
+Bread, Cheese
+Fruit, Chips, Soda, Cheese
+Bread, Milk, Jam
+Fruit, Cheese, Bread, Peanut, Chips, Milk, Jam
+Cheese
+Soda, Bread, Cheese, Chips, Milk, Jam
+Bread, Cheese, Peanut
+Jam, Cheese, Peanut, Milk, Chips
+Bread, Chips
+Peanut, Soda, Bread, Cheese, Fruit, Milk
+Chips, Peanut, Fruit, Cheese, Milk
+Cheese, Fruit, Peanut
+Peanut, Soda, Chips, Fruit, Milk, Jam, Cheese
+Fruit
+Peanut
+Soda, Jam, Milk, Bread, Peanut, Chips, Cheese
+Peanut, Soda, Cheese, Milk, Chips, Jam
+Chips, Milk, Fruit, Peanut, Jam, Bread, Soda
+Milk, Peanut
+Milk, Cheese, Bread, Soda, Peanut, Fruit, Jam
+Jam, Soda, Chips
+Cheese, Jam, Bread
+Soda, Fruit, Jam, Milk, Cheese, Chips, Peanut
+Peanut
+Peanut
+Bread, Jam
+Fruit, Peanut, Bread
+Bread, Fruit, Cheese, Peanut, Milk
+Jam, Bread, Cheese, Soda, Fruit, Milk, Peanut, Chips
+Fruit, Soda, Chips, Jam, Bread, Milk
+Soda, Chips, Cheese, Peanut, Fruit
+Milk, Soda, Bread, Peanut, Jam, Chips, Fruit, Cheese
+Bread, Soda, Peanut, Chips, Milk, Jam
+Bread
+Jam, Peanut, Chips, Fruit
+Cheese, Bread
+Soda, Milk, Jam, Cheese
+Jam, Soda, Milk
+Bread
+Soda, Jam, Milk, Bread, Fruit, Chips, Peanut
+Cheese, Fruit
+Chips, Cheese, Peanut
+Chips, Soda, Peanut, Milk
+Chips, Bread, Jam, Soda, Cheese
+Soda, Milk
+Fruit, Cheese, Milk, Soda, Peanut
+Jam, Milk, Soda, Chips
+Soda, Milk, Bread, Chips, Fruit, Jam
+Chips, Bread, Peanut, Fruit
+Soda, Peanut, Fruit, Bread, Milk, Jam
+Bread
+Fruit, Bread, Chips
+Milk, Cheese, Soda, Peanut, Chips, Bread
+Milk
+Chips
+Fruit, Bread, Milk, Cheese, Peanut, Jam, Soda
+Chips, Milk, Soda, Cheese, Peanut, Bread, Jam
+Chips
+Soda
+Cheese, Milk, Chips, Bread, Fruit, Jam, Soda
+Fruit, Milk, Chips, Cheese, Soda, Jam, Bread, Peanut
+Chips
+Cheese, Soda
+Soda, Peanut, Milk
+Cheese, Soda
+Milk, Chips, Bread, Soda
+Cheese, Jam, Peanut, Chips, Bread, Soda, Milk
+Chips, Fruit, Soda, Cheese, Milk, Jam
+Bread, Fruit, Chips, Jam, Cheese, Peanut
+Jam, Bread, Chips, Cheese, Fruit, Milk, Peanut
+Bread
+Peanut, Bread, Soda, Jam, Fruit, Cheese, Chips, Milk
+Chips, Soda, Cheese, Jam, Bread
+Bread, Fruit, Milk, Jam, Cheese, Peanut
+Jam, Milk, Fruit, Bread
+Peanut, Milk, Bread, Soda, Cheese, Chips, Jam, Fruit
+Cheese, Jam, Bread, Fruit, Peanut, Chips, Milk
+Fruit, Bread, Cheese
+Chips, Milk
+Bread, Milk
+Soda, Fruit, Milk
+Jam, Bread, Fruit, Peanut
+Peanut, Chips, Soda, Fruit, Cheese
+Chips, Cheese, Bread, Peanut, Milk
+Soda, Bread, Chips, Milk
+Milk, Chips
+Chips, Soda, Bread, Milk
+Milk, Cheese
+Soda, Chips
+Soda
+Soda, Peanut, Bread
+Soda, Cheese, Fruit, Bread, Chips
+Chips, Milk, Bread, Soda, Peanut, Jam, Cheese
+Fruit, Cheese
+Peanut, Soda, Cheese, Bread
+Soda, Fruit, Cheese, Jam
+Soda, Chips
+Milk, Peanut, Soda
+Soda, Jam, Cheese, Fruit, Bread, Milk
+Chips, Milk, Fruit, Soda, Bread, Cheese
+Bread, Soda
+Peanut, Chips, Bread, Jam, Cheese, Soda, Fruit, Milk
+Peanut, Bread, Jam, Cheese
+Soda, Jam, Chips, Fruit, Bread, Peanut, Cheese, Milk
+Jam, Peanut, Cheese, Bread
+Cheese, Chips
+Fruit, Chips, Peanut, Jam
+Fruit, Bread, Jam, Milk, Cheese, Peanut, Soda
+Chips, Fruit, Cheese, Soda, Milk, Peanut, Bread, Jam
+Chips, Milk, Bread, Peanut, Cheese, Soda, Jam
+Soda, Bread
+Milk, Fruit, Peanut
+Chips, Jam
+Jam, Chips, Peanut, Milk
+Jam
+Cheese, Chips, Milk, Peanut, Jam
+Bread, Peanut, Milk, Chips, Fruit, Jam, Cheese
+Soda, Chips, Cheese
+Peanut, Soda, Bread, Jam, Milk, Cheese, Fruit
+Fruit, Bread
+Chips, Fruit, Milk
+Chips, Bread, Jam, Soda, Fruit, Peanut, Milk
+Jam, Soda, Cheese, Bread, Fruit, Peanut
+Chips, Milk, Soda, Fruit, Jam
+Jam
+Cheese, Peanut, Milk
+Peanut
+Jam, Soda, Cheese
+Milk
+Milk, Chips, Cheese
+Chips, Fruit, Bread, Milk, Peanut
+Peanut, Cheese, Fruit, Jam, Soda
+Milk, Bread, Soda
+Peanut, Fruit, Cheese
+Fruit, Bread, Chips, Cheese
+Chips, Cheese, Bread, Milk, Fruit, Soda, Jam
+Bread, Jam, Soda, Peanut, Milk, Cheese
+Bread, Chips, Soda, Jam, Cheese, Peanut, Milk
+Peanut, Bread, Chips
+Milk, Peanut, Chips, Bread, Jam, Fruit, Soda
+Chips, Bread, Peanut, Cheese, Soda, Milk
+Milk, Jam, Peanut, Cheese, Fruit, Chips, Soda
+Cheese, Milk, Chips, Soda, Peanut
+Fruit, Peanut, Jam, Bread, Milk, Chips, Soda
+Milk, Cheese, Fruit, Jam
+Bread, Chips, Jam, Peanut, Milk, Soda, Cheese
+Fruit, Soda, Milk, Jam, Peanut, Bread, Chips
+Soda, Fruit, Cheese, Peanut, Chips, Milk
+Peanut, Jam, Soda, Milk, Chips, Cheese
+Jam, Peanut, Cheese, Milk
+Cheese, Chips, Milk, Fruit
+Cheese, Soda, Bread, Fruit
+Soda, Chips, Peanut, Fruit, Bread
+Bread, Jam, Soda, Peanut, Chips, Fruit, Cheese, Milk
+Soda, Bread, Milk, Fruit, Cheese
+Bread, Chips, Peanut
+Peanut, Jam, Chips
+Fruit, Chips, Milk, Soda, Bread
+Milk, Chips, Fruit, Bread
+Milk, Fruit, Jam, Bread, Cheese
+Fruit, Soda, Cheese, Milk, Jam, Chips, Bread, Peanut
+Peanut, Fruit, Soda
+Chips, Jam
+Peanut, Chips, Cheese
+Soda, Peanut, Chips, Jam, Milk, Bread, Fruit
+Soda, Fruit, Milk, Cheese, Chips
+Cheese, Jam, Milk, Soda, Chips, Bread, Peanut, Fruit
+Soda, Jam
+Cheese, Fruit, Jam, Peanut, Milk
+Milk, Peanut, Soda
+Bread
+Bread, Jam, Soda, Fruit, Cheese, Chips, Milk
+Peanut, Bread
+Bread
+Jam, Milk, Cheese, Chips, Fruit
+Jam, Soda, Cheese
+Cheese, Soda, Fruit, Peanut, Bread
+Bread, Milk, Fruit, Cheese, Chips, Peanut, Soda
+Jam, Milk, Soda, Bread, Fruit, Cheese, Chips
+Chips, Peanut, Cheese
+Fruit, Peanut, Jam, Soda, Milk
+Jam, Cheese
+Milk, Peanut, Fruit, Bread, Chips
+Soda, Fruit, Peanut, Bread, Chips, Jam, Cheese, Milk
+Soda, Peanut, Bread, Fruit
+Bread, Jam, Cheese, Soda, Milk, Chips, Peanut
+Jam, Milk, Bread, Peanut, Cheese
+Milk, Jam, Cheese, Peanut, Fruit, Bread
+Jam, Milk, Fruit, Cheese, Chips, Soda, Peanut, Bread
+Milk, Chips
+Soda, Fruit, Milk, Bread, Cheese, Jam
+Cheese, Soda, Peanut, Chips, Jam
+Fruit, Soda, Chips
+Fruit, Bread, Soda, Cheese, Chips, Milk, Peanut
+Cheese, Peanut
+Peanut, Bread, Chips, Soda, Cheese
+Soda, Jam, Peanut, Milk
+Bread, Peanut, Fruit
+Jam, Peanut, Chips, Milk, Fruit
+Soda, Bread, Cheese, Jam, Fruit, Milk
+Soda, Cheese, Bread, Milk, Jam, Fruit, Peanut, Chips
+Bread, Cheese, Jam
+Bread
+Jam, Bread
+Soda, Peanut, Bread, Milk, Chips, Jam, Cheese, Fruit
+Fruit, Cheese, Soda, Peanut, Milk, Jam
+Chips, Cheese, Peanut, Fruit
+Fruit, Soda, Jam, Peanut, Chips, Milk, Cheese, Bread
+Milk, Peanut, Bread, Soda, Cheese
+Cheese, Bread, Chips, Milk, Peanut, Jam, Fruit
+Milk, Jam, Cheese, Chips, Bread
+Milk, Bread, Chips, Peanut
+Jam, Bread
+Soda, Milk, Fruit, Peanut, Chips, Cheese, Jam
+Bread, Fruit
+Peanut, Chips, Cheese, Milk, Jam, Soda
+Bread, Jam, Peanut, Fruit, Cheese, Chips, Soda
+Bread, Jam, Peanut, Cheese, Fruit
+Soda, Cheese, Peanut, Chips, Jam, Milk, Bread
+Soda, Jam, Fruit, Chips, Milk, Bread, Cheese, Peanut
+Milk, Chips, Jam, Cheese
+Milk, Bread, Peanut, Soda, Chips
+Bread, Chips
+Peanut, Soda, Fruit, Bread
+Fruit, Milk, Peanut, Cheese, Bread
+Milk, Peanut, Cheese, Chips, Fruit
+Cheese, Jam, Soda
+Cheese, Soda, Peanut, Chips, Fruit
+Peanut, Jam, Milk, Bread
+Cheese
+Milk, Peanut, Fruit, Soda, Cheese, Chips
+Bread, Milk, Cheese, Fruit
+Jam, Peanut, Fruit
+Peanut, Soda, Fruit, Milk, Jam, Bread, Cheese, Chips
+Milk, Bread, Peanut, Soda
+Chips
+Chips, Fruit, Cheese, Bread, Jam, Soda, Milk
+Jam, Bread, Milk, Chips, Peanut, Cheese
+Peanut, Jam, Milk, Chips, Fruit, Cheese
+Jam, Soda
+Cheese, Bread, Jam, Peanut, Soda
+Milk, Peanut, Jam, Cheese
+Jam, Bread, Fruit, Milk, Cheese, Chips, Soda, Peanut
+Bread, Jam, Cheese
+Peanut, Milk, Jam, Fruit, Chips, Cheese, Soda, Bread
+Soda, Milk, Peanut, Cheese, Bread, Chips, Fruit
+Bread, Fruit, Peanut, Soda
+Bread, Jam, Fruit, Peanut, Cheese, Milk, Chips, Soda
+Bread, Jam, Chips, Milk, Soda, Cheese, Peanut
+Peanut
+Cheese
+Milk, Soda, Chips, Peanut, Fruit, Jam, Bread, Cheese
+Fruit, Peanut, Bread, Chips, Milk
+Soda, Milk, Cheese, Chips, Fruit, Peanut, Bread
+Bread, Milk, Cheese, Soda
+Cheese, Soda, Peanut, Chips, Jam
+Bread
+Milk
+Jam, Chips
+Cheese, Milk
+Fruit, Milk
+Jam, Cheese, Chips, Bread, Milk, Soda
+Jam, Fruit, Milk, Bread, Peanut, Chips, Soda, Cheese
+Milk, Jam, Cheese, Fruit, Chips, Bread
+Chips, Milk
+Chips, Milk, Soda, Fruit, Bread, Jam, Peanut
+Chips, Cheese, Soda, Jam, Fruit, Milk
+Peanut, Jam, Chips, Milk, Soda, Bread, Cheese, Fruit
+Soda, Cheese, Milk, Fruit, Bread, Chips, Peanut
+Bread, Soda, Fruit, Chips, Peanut
+Peanut, Fruit, Soda
+Cheese, Milk, Jam, Bread, Peanut, Fruit, Chips
+Jam, Bread
+Peanut, Bread
+Peanut, Cheese, Milk, Chips, Jam, Bread
+Chips, Jam, Fruit, Peanut
+Peanut, Chips, Jam
+Peanut, Fruit, Jam, Chips, Soda
+Milk, Fruit, Soda, Peanut, Bread, Jam, Cheese
+Peanut, Cheese, Milk, Chips
+Soda, Fruit, Chips, Peanut, Bread, Milk
+Soda, Bread, Jam, Chips, Milk, Cheese, Peanut
+Peanut, Cheese, Soda, Bread, Jam
+Peanut, Fruit
+Cheese, Jam
+Jam, Soda, Milk, Peanut, Bread, Chips, Cheese
+Chips
+Fruit, Milk
+Cheese, Bread, Soda, Milk
+Chips, Milk, Peanut, Bread, Soda, Jam
+Bread
+Cheese, Fruit
+Fruit, Bread, Chips, Peanut, Cheese, Jam, Soda, Milk
+Cheese, Jam, Peanut, Bread, Milk
+Cheese, Milk, Bread
+Cheese, Milk, Bread, Chips, Peanut, Soda
+Milk, Jam, Peanut, Bread, Cheese
+Cheese, Soda, Fruit, Chips, Peanut, Bread, Jam, Milk
+Peanut, Cheese, Milk, Bread
+Fruit, Soda, Bread
+Peanut, Soda, Milk, Cheese, Fruit
+Jam
+Chips
+Bread, Soda, Fruit, Cheese
+Fruit, Bread, Cheese, Milk, Peanut, Chips, Jam, Soda
+Jam, Peanut, Milk, Chips, Fruit, Soda, Cheese, Bread
+Fruit
+Peanut
+Milk, Chips, Bread, Jam, Peanut
+Bread, Peanut, Soda, Chips, Milk, Fruit, Cheese, Jam
+Bread, Soda, Cheese, Fruit
+Jam, Chips, Milk, Bread, Peanut, Cheese
+Fruit, Bread, Jam, Milk
+Peanut
+Jam, Bread, Fruit, Milk, Soda, Chips
+Fruit, Chips, Peanut, Milk, Cheese, Soda, Jam, Bread
+Milk, Peanut, Soda, Cheese
+Fruit, Peanut, Bread
+Bread, Soda, Chips, Fruit
+Fruit, Milk, Soda, Cheese, Bread
+Soda, Cheese, Milk, Fruit, Chips, Peanut
+Fruit
+Milk, Chips, Jam, Peanut, Bread, Soda, Cheese, Fruit
+Bread, Fruit, Peanut, Milk, Jam, Chips
+Peanut, Chips, Jam, Bread, Milk
+Fruit, Soda
+Milk, Fruit, Bread
+Chips, Milk, Fruit, Jam, Cheese, Peanut
+Milk, Jam, Peanut, Fruit, Cheese, Soda, Bread, Chips
+Bread, Peanut, Soda, Fruit, Cheese, Milk, Jam, Chips
+Peanut, Milk, Soda, Bread, Fruit, Chips, Jam
+Peanut, Cheese, Fruit, Jam, Chips
+Milk, Bread, Jam
+Milk
+Chips, Bread
+Bread, Milk, Chips, Peanut
+Fruit, Bread
+Jam, Cheese, Milk, Bread
+Chips, Cheese
+Fruit, Soda, Peanut, Jam, Chips, Bread, Cheese, Milk
+Jam, Peanut, Bread, Chips, Cheese, Fruit, Soda, Milk
+Cheese, Chips
+Cheese
+Jam, Fruit, Cheese, Peanut, Chips
+Fruit, Soda, Peanut, Milk, Jam, Chips
+Bread, Jam, Peanut, Milk, Cheese, Fruit, Soda
+Milk, Bread, Fruit
+Fruit, Chips, Milk, Peanut
+Milk
+Soda, Jam
+Peanut, Cheese, Jam
+Chips, Milk, Fruit, Peanut
+Fruit, Soda
+Cheese, Fruit, Soda, Jam, Bread
+Peanut, Bread, Soda, Fruit, Chips, Cheese, Jam
+Jam, Cheese
+Soda, Bread, Cheese, Jam, Chips, Peanut, Milk, Fruit
+Peanut, Cheese
+Milk, Bread, Cheese, Fruit, Soda, Jam, Chips, Peanut
+Fruit, Chips, Peanut, Bread, Cheese, Jam, Soda, Milk
+Cheese, Bread, Fruit
+Milk, Cheese, Bread, Soda, Jam, Chips, Fruit, Peanut
+Peanut, Cheese, Soda
+Peanut, Chips, Soda, Jam, Cheese, Fruit, Milk, Bread
+Jam, Bread, Fruit, Milk, Cheese
+Peanut, Chips, Cheese, Soda, Bread, Milk, Fruit
+Jam, Soda, Milk, Peanut, Fruit, Bread
+Bread
+Jam
+Chips, Milk, Soda, Fruit, Jam, Bread, Peanut, Cheese
+Cheese, Jam, Soda, Fruit, Peanut
+Milk, Chips, Bread
+Fruit, Peanut, Jam
+Bread, Soda
+Chips, Fruit, Soda, Peanut, Cheese, Bread
+Fruit, Chips, Soda, Bread, Peanut, Cheese, Jam
+Peanut
+Peanut
+Jam, Chips, Bread, Cheese, Peanut
+Milk, Bread, Soda, Chips
+Soda
+Jam, Fruit, Chips, Milk, Soda
+Soda, Cheese, Jam, Bread
+Chips, Bread, Cheese, Fruit, Peanut, Soda
+Fruit, Cheese, Bread, Soda, Jam, Milk, Peanut
+Soda, Chips, Milk, Cheese, Jam
+Soda, Chips, Peanut, Fruit
+Soda, Fruit, Bread, Chips, Cheese, Milk, Peanut
+Peanut, Jam, Fruit, Cheese
+Fruit, Bread, Soda, Milk, Cheese, Jam, Chips
+Fruit, Bread, Soda, Milk, Jam
+Soda
+Cheese, Peanut, Soda, Chips, Jam
+Cheese, Peanut
+Chips, Milk, Soda, Cheese, Fruit, Jam
+Chips, Bread, Cheese, Peanut
+Bread, Peanut, Milk
+Fruit, Milk
+Milk, Peanut
+Milk, Fruit, Soda, Cheese, Jam, Chips, Bread, Peanut
+Fruit
+Milk, Bread, Jam, Peanut, Chips
+Fruit
+Jam, Cheese, Soda, Peanut, Milk, Chips, Bread
+Milk, Jam, Bread, Chips, Peanut
+Jam, Soda
+Milk, Soda, Peanut, Fruit, Bread
+Cheese, Peanut, Bread, Jam
+Milk, Soda
+Soda, Milk, Fruit
+Soda, Chips, Milk, Cheese, Jam, Bread, Fruit
+Milk, Chips, Bread, Soda
+Soda, Bread, Fruit, Chips, Jam, Cheese, Peanut, Milk
+Jam, Fruit, Milk, Peanut, Bread
+Bread, Soda, Jam
+Milk, Fruit, Cheese, Jam, Chips, Soda
+Jam, Chips, Peanut
+Cheese, Bread, Soda, Fruit, Chips, Milk
+Cheese, Soda, Bread, Jam
+Milk, Peanut, Cheese
+Soda, Bread, Milk, Jam, Fruit, Chips
+Cheese, Bread, Peanut, Milk
+Chips
+Soda, Bread, Jam, Fruit
+Bread, Milk, Peanut
+Cheese, Fruit, Soda, Chips
+Chips, Milk
+Soda, Milk, Jam
+Milk, Jam
+Bread, Chips, Peanut, Milk, Jam, Fruit, Cheese
+Jam, Bread, Chips
+Bread, Milk
+Jam
+Bread, Cheese
+Chips, Cheese, Soda, Milk, Fruit, Peanut, Jam, Bread
+Soda, Cheese, Fruit, Peanut, Chips
+Peanut, Soda, Bread, Jam, Milk, Fruit
+Milk, Fruit, Chips, Cheese, Bread, Peanut, Jam, Soda
+Milk, Peanut, Bread
+Bread, Jam, Peanut, Chips, Milk, Fruit, Cheese
+Milk
+Jam, Peanut
+Fruit, Chips, Peanut, Bread, Cheese
+Milk, Soda
+Cheese, Chips, Milk, Jam, Fruit
+Peanut, Chips, Bread, Fruit, Soda, Milk, Jam, Cheese
+Chips
+Jam
+Jam, Peanut, Bread, Soda
+Jam, Chips, Soda, Fruit
+Milk
+Cheese, Milk, Chips, Bread, Soda
+Bread
+Peanut, Soda, Chips, Milk
+Milk, Soda
+Bread, Milk, Peanut, Jam
+Chips, Cheese, Milk
+Peanut
+Soda, Chips, Milk, Peanut, Jam
+Bread, Soda, Jam
+Chips
+Fruit, Chips, Jam, Soda, Cheese
+Peanut, Bread, Cheese, Jam, Milk, Chips
+Cheese, Peanut
+Milk, Cheese, Chips, Peanut
+Peanut, Jam, Cheese
+Milk, Soda, Peanut
+Jam
+Soda, Cheese, Milk, Peanut, Jam, Chips, Fruit
+Soda, Cheese
+Milk, Chips, Fruit, Peanut, Bread, Cheese
+Bread
+Jam, Soda, Peanut
+Milk, Cheese, Soda
+Jam, Cheese, Soda, Bread, Milk, Chips, Fruit, Peanut
+Fruit, Chips, Jam, Peanut, Milk, Soda, Bread, Cheese
+Cheese, Peanut, Chips, Soda
+Milk, Jam, Fruit, Soda, Peanut
+Milk, Jam, Chips, Cheese, Fruit
+Jam, Chips, Cheese, Peanut, Bread, Soda, Fruit, Milk
+Milk, Jam, Cheese, Chips, Fruit, Peanut, Bread, Soda
+Soda, Cheese, Bread
+Milk, Jam, Cheese, Bread, Peanut, Soda, Chips, Fruit
+Bread, Fruit, Cheese
+Milk, Cheese, Fruit, Peanut, Chips, Bread
+Peanut, Fruit, Chips, Milk, Soda, Cheese, Jam, Bread
+Jam, Cheese, Fruit, Milk, Soda, Bread
+Cheese, Milk, Fruit, Soda, Jam, Chips, Peanut
+Peanut, Milk, Jam, Fruit, Cheese
+Jam, Peanut
+Soda
+Milk, Jam, Soda, Bread
+Milk, Cheese, Peanut, Bread, Soda
+Soda, Jam, Peanut, Chips, Cheese
+Fruit
+Jam, Chips, Cheese, Bread, Soda
+Fruit, Bread, Peanut
+Milk, Jam, Bread
+Bread, Fruit, Soda, Milk, Chips
+Peanut, Milk, Bread, Chips, Cheese, Jam
+Cheese, Bread, Chips, Fruit, Jam, Milk
+Peanut, Bread, Chips, Soda, Milk, Fruit, Jam, Cheese
+Jam, Soda, Bread, Cheese, Peanut
+Peanut, Fruit, Jam, Milk, Bread, Chips, Cheese, Soda
+Jam
+Fruit
+Bread, Soda, Chips, Jam, Milk, Fruit, Cheese, Peanut
+Cheese
+Cheese, Fruit, Jam, Bread, Chips, Milk
+Chips, Fruit, Peanut, Milk, Jam, Cheese
+Chips
+Milk, Bread, Cheese
+Chips, Soda, Bread, Fruit, Cheese, Peanut, Jam, Milk
+Soda, Bread, Milk, Cheese
+Bread, Peanut, Cheese, Soda, Jam, Chips, Milk, Fruit
+Jam, Fruit, Chips, Cheese, Soda, Bread, Milk, Peanut
+Milk, Fruit, Chips
+Milk, Cheese, Peanut, Chips, Fruit, Soda
+Soda, Milk, Cheese, Bread, Fruit
+Milk, Peanut, Bread, Cheese
+Jam, Fruit, Soda, Peanut, Cheese, Chips
+Fruit, Milk, Bread, Peanut, Soda, Jam, Cheese, Chips
+Cheese, Jam, Chips, Bread, Milk, Peanut, Soda, Fruit
+Milk
+Peanut, Fruit
+Chips, Soda, Milk, Fruit, Bread, Cheese, Peanut
+Soda, Peanut
+Cheese, Milk, Peanut, Chips
+Chips, Soda, Milk, Cheese, Fruit, Bread
+Fruit, Cheese, Chips
+Jam, Bread, Fruit, Cheese, Milk, Soda
+Bread, Cheese, Peanut, Milk, Fruit
+Soda, Jam, Bread, Fruit, Chips, Milk, Cheese, Peanut
+Bread, Fruit, Cheese, Milk, Chips, Jam
+Soda, Chips, Jam, Fruit, Bread
+Chips, Peanut, Cheese, Fruit, Jam
+Soda, Chips, Bread, Milk
+Milk, Bread, Chips, Jam, Cheese, Fruit
+Chips, Soda, Peanut, Bread, Cheese, Fruit
+Jam, Fruit, Milk
+Bread, Chips, Soda, Cheese, Fruit, Peanut, Jam, Milk
+Bread, Cheese, Jam, Chips, Fruit, Milk
+Soda
+Fruit, Bread, Chips
+Peanut, Chips, Fruit
+Cheese, Peanut, Bread, Jam, Chips
+Jam, Cheese
+Bread, Peanut, Milk, Chips
+Soda, Jam, Chips
+Peanut, Fruit, Soda, Cheese, Jam, Bread, Chips
+Chips, Soda, Jam, Milk, Cheese, Bread, Fruit, Peanut
+Milk, Fruit, Bread, Jam, Peanut, Chips, Soda, Cheese
+Jam, Fruit, Chips, Milk, Bread, Soda, Peanut
+Peanut
+Soda, Cheese, Bread, Fruit, Milk, Chips, Peanut, Jam
+Bread, Peanut, Soda, Cheese, Jam, Fruit
+Peanut, Milk, Jam, Fruit, Chips, Cheese, Soda
+Peanut, Bread, Soda, Milk, Fruit, Cheese, Jam, Chips
+Bread, Milk
+Milk
+Chips, Milk, Soda, Cheese, Jam
+Peanut, Soda, Milk, Bread, Jam
+Fruit, Peanut
+Chips, Jam, Fruit, Peanut, Cheese, Soda, Milk, Bread
+Peanut, Bread
+Cheese, Jam, Milk, Soda, Bread, Fruit, Chips, Peanut
+Peanut, Fruit, Bread
+Milk, Chips, Fruit, Bread, Peanut, Jam, Cheese, Soda
+Fruit, Chips, Cheese, Peanut, Soda, Jam, Bread
+Peanut, Soda, Chips
+Chips, Jam, Bread, Soda, Cheese, Peanut
+Chips, Milk, Soda, Peanut
+Bread
+Soda
+Jam, Bread
+Soda
+Bread, Soda, Milk, Fruit, Peanut
+Cheese, Soda, Chips
+Jam, Soda, Milk
+Fruit, Peanut, Jam, Cheese, Chips, Soda
+Cheese, Chips, Peanut, Fruit, Jam
+Peanut, Chips, Fruit, Bread
+Cheese, Bread, Soda, Peanut
+Peanut, Milk, Chips, Jam
+Peanut, Bread, Chips, Jam, Soda, Fruit, Cheese, Milk
+Peanut, Chips, Milk, Fruit, Jam, Cheese, Soda
+Jam, Bread, Soda
+Milk, Bread
+Cheese, Soda, Jam, Fruit, Chips, Milk, Peanut, Bread
+Milk, Soda, Chips, Bread
+Jam, Chips, Peanut, Bread
+Fruit
+Peanut, Milk, Chips, Soda
+Chips, Bread, Fruit, Soda, Jam, Milk, Cheese, Peanut
+Cheese, Jam, Peanut, Bread, Chips
+Soda, Cheese
+Peanut, Cheese, Milk, Jam, Soda
+Bread, Cheese, Milk, Peanut, Jam
+Peanut, Fruit, Soda, Cheese, Bread
+Soda, Bread, Milk, Chips, Jam, Peanut
+Cheese, Milk, Soda, Bread, Chips, Fruit
+Peanut, Jam
+Milk, Peanut, Cheese, Soda, Chips, Fruit, Jam
+Fruit, Bread, Peanut, Cheese, Jam, Soda, Chips
+Soda, Chips, Cheese, Milk, Bread, Peanut, Fruit, Jam
+Bread
+Jam, Bread, Fruit, Soda, Milk
+Milk, Peanut, Soda, Bread, Jam
+Soda, Jam, Milk, Peanut, Bread, Fruit, Chips
+Fruit, Cheese, Soda, Jam, Bread, Milk
+Bread, Chips, Soda
+Bread, Soda, Chips, Peanut, Milk, Fruit, Jam
+Cheese, Soda, Bread, Peanut, Jam
+Jam, Milk, Fruit, Chips, Soda, Bread
+Fruit, Peanut, Bread, Jam, Cheese, Chips
+Soda
+Fruit, Cheese, Milk, Jam
+Peanut, Bread, Cheese, Fruit, Milk, Chips
+Soda, Cheese, Peanut, Fruit, Milk, Jam, Chips
+Soda, Chips, Milk, Bread, Cheese, Peanut, Fruit
+Peanut, Chips, Cheese, Soda, Milk
+Chips, Peanut, Bread, Soda, Jam, Cheese, Fruit, Milk
+Peanut, Soda
+Jam
+Chips, Soda, Bread, Fruit, Jam
+Peanut, Cheese, Fruit, Soda, Bread, Milk, Chips
+Fruit, Chips
+Soda, Fruit, Cheese, Peanut, Chips, Milk, Bread, Jam
+Jam, Chips, Milk
+Bread, Jam, Peanut, Cheese, Milk, Soda, Chips
+Bread, Peanut
+Bread, Soda, Milk, Fruit, Jam, Chips
+Bread, Chips, Milk, Jam, Cheese, Soda, Peanut, Fruit
+Fruit, Jam, Bread, Soda, Cheese, Peanut, Chips
+Fruit, Peanut
+Cheese
+Soda, Milk, Bread, Cheese, Jam, Peanut, Fruit, Chips
+Jam, Soda
+Milk, Peanut, Cheese, Soda, Jam
+Chips, Milk, Fruit, Peanut, Cheese, Jam, Bread
+Jam, Soda, Fruit, Chips
+Jam, Bread, Peanut, Chips, Fruit
+Soda
+Cheese, Milk, Peanut, Chips, Fruit, Bread, Jam, Soda
+Fruit, Chips, Milk, Peanut, Soda
+Chips, Jam, Soda, Milk, Fruit, Peanut
+Milk, Fruit, Jam
+Milk
+Fruit, Jam
+Fruit, Cheese, Jam
+Bread, Fruit
+Cheese, Bread, Soda, Jam, Peanut, Milk
+Bread, Soda, Milk, Fruit, Jam, Chips, Peanut, Cheese
+Fruit, Peanut, Cheese, Milk, Soda, Jam
+Chips, Fruit, Peanut
+Milk, Chips, Soda, Peanut, Fruit, Bread
+Chips, Cheese, Fruit
+Soda
+Cheese, Fruit
+Chips, Peanut
+Jam, Cheese, Bread
+Fruit, Jam, Peanut, Chips, Milk, Bread, Cheese, Soda
+Soda
+Soda
+Milk
+Milk, Cheese, Soda, Jam
+Cheese, Jam, Fruit, Milk, Soda, Bread, Chips, Peanut
+Peanut
+Jam, Bread, Fruit
+Soda, Peanut, Jam, Chips, Cheese, Bread, Fruit, Milk
+Fruit, Bread, Jam, Milk, Peanut, Soda, Chips
+Chips
+Milk, Jam, Soda
+Milk, Chips, Fruit
+Bread, Chips, Jam
+Soda, Bread, Chips, Fruit
+Jam, Soda
+Bread, Soda, Fruit
+Milk, Peanut, Chips, Fruit, Bread, Jam
+Peanut
+Peanut, Soda, Bread
+Bread, Peanut
+Milk, Fruit, Peanut, Bread, Soda, Chips, Jam, Cheese
+Cheese, Fruit, Peanut, Milk, Chips, Bread, Jam, Soda
+Fruit
+Cheese, Bread, Fruit, Chips, Peanut, Soda, Jam
+Bread, Fruit, Jam, Milk, Peanut, Cheese, Soda, Chips
+Milk, Soda, Peanut, Chips, Jam, Cheese, Bread
+Milk, Cheese, Bread, Jam
+Chips, Milk
+Peanut
+Jam, Cheese, Fruit, Chips, Milk, Peanut
+Soda, Peanut, Jam
+Jam, Cheese
+Bread, Soda, Cheese, Peanut, Jam, Milk, Fruit, Chips
+Jam, Chips, Fruit, Cheese, Peanut, Milk, Bread
+Fruit, Peanut, Jam, Cheese, Soda, Chips, Bread
+Soda, Fruit, Bread, Peanut, Cheese, Jam, Chips, Milk
+Cheese, Soda
+Chips, Soda, Cheese, Fruit, Milk, Bread, Peanut, Jam
+Peanut, Bread, Cheese, Milk, Soda, Chips, Jam
+Milk, Cheese, Peanut, Bread, Jam, Fruit, Soda, Chips
+Cheese, Milk, Fruit, Peanut, Bread, Chips, Soda, Jam
+Soda, Bread
+Fruit, Jam, Peanut, Milk
+Fruit, Jam, Bread, Soda, Peanut, Milk
+Peanut, Fruit, Jam
+Bread, Soda, Fruit, Chips, Peanut, Cheese, Jam, Milk
+Jam, Chips, Bread
+Bread
+Soda, Jam, Milk, Chips, Peanut, Cheese
+Chips
+Milk
+Milk
+Chips, Jam, Cheese
+Soda, Bread, Fruit, Milk, Chips
+Fruit, Milk, Jam, Chips, Peanut
+Fruit, Cheese, Peanut, Chips, Jam, Soda, Bread
+Cheese, Peanut, Milk, Bread, Jam, Fruit
+Fruit
+Cheese, Jam, Fruit, Bread, Chips, Peanut, Milk
+Fruit, Milk
+Cheese, Chips, Soda, Fruit, Milk, Jam
+Peanut, Fruit, Bread
+Soda, Fruit
+Bread
+Bread
+Cheese, Milk, Jam, Chips
+Soda, Bread, Peanut, Milk, Chips, Jam, Cheese, Fruit
+Soda, Bread, Cheese, Jam, Milk
+Jam, Soda, Bread, Cheese, Fruit
+Chips, Milk, Soda
+Soda, Milk
+Chips, Milk
+Bread, Jam, Milk, Peanut, Chips, Fruit
+Soda, Bread, Chips, Cheese, Fruit, Jam, Milk, Peanut
+Cheese, Soda, Jam, Peanut, Fruit, Milk
+Cheese, Bread, Fruit, Soda, Milk, Jam, Peanut
+Jam, Bread, Peanut, Soda
+Chips, Cheese, Jam
+Cheese, Jam, Fruit, Soda
+Fruit, Cheese, Milk, Bread, Soda
+Chips, Milk
+Jam, Peanut, Soda, Cheese, Chips, Milk
+Milk
+Jam
+Cheese, Milk
+Jam, Fruit, Soda
+Soda, Chips
+Milk, Chips
+Cheese, Bread, Chips, Fruit, Jam, Peanut, Soda
+Soda, Fruit, Cheese, Milk, Chips, Bread, Peanut, Jam
+Bread, Milk, Chips
+Soda, Cheese, Bread, Chips, Milk, Jam
+Fruit, Jam, Soda, Cheese, Peanut, Chips
+Fruit
+Cheese, Milk, Chips, Fruit, Soda, Jam
+Soda
+Bread, Soda, Chips, Peanut, Fruit, Milk, Cheese
+Chips, Fruit, Soda, Peanut, Bread, Jam
+Cheese, Chips, Soda, Milk, Fruit, Bread, Peanut, Jam
+Bread, Jam, Chips, Soda, Milk, Cheese, Peanut, Fruit
+Cheese, Soda
+Cheese
+Soda, Chips, Peanut
+Bread, Cheese, Fruit, Milk, Jam, Peanut, Chips, Soda
+Chips, Peanut, Soda, Jam, Milk, Fruit
+Milk, Bread, Cheese, Fruit, Peanut
+Soda, Cheese
+Bread, Peanut, Fruit
+Milk, Jam
+Cheese, Bread, Fruit, Soda, Milk
+Fruit, Peanut, Jam, Cheese, Soda, Milk
+Soda, Jam, Bread, Milk, Chips, Peanut, Fruit
+Jam, Fruit, Soda, Chips, Cheese, Bread, Peanut, Milk
+Bread, Soda, Jam, Peanut, Fruit
+Soda, Chips
+Fruit, Cheese, Jam, Peanut, Chips, Soda, Milk, Bread
+Chips, Milk, Soda, Peanut, Fruit, Bread
+Fruit, Milk
+Jam, Cheese
+Cheese, Bread, Milk, Chips
+Milk, Soda, Peanut, Chips, Cheese, Jam
+Bread, Milk, Cheese
+Fruit, Milk, Chips, Soda, Cheese
+Fruit, Bread, Peanut, Soda, Chips, Jam, Milk
+Fruit, Peanut, Milk, Soda
+Jam, Fruit
+Cheese, Jam, Milk
+Jam, Chips, Bread, Fruit, Cheese
+Bread, Peanut, Cheese, Fruit, Soda, Jam, Milk, Chips
+Bread, Chips, Fruit, Jam, Milk, Peanut, Cheese
+Soda, Cheese, Milk, Fruit, Peanut
+Jam, Soda
+Peanut, Jam, Bread, Soda, Fruit, Milk, Chips, Cheese
+Fruit, Chips, Soda, Jam, Cheese, Peanut, Milk
+Fruit, Chips, Peanut, Jam, Cheese, Soda
+Milk, Bread, Fruit, Soda, Jam, Cheese, Peanut, Chips
+Milk, Fruit, Soda, Cheese
+Fruit, Jam
+Jam, Chips
+Cheese, Jam, Chips, Fruit, Peanut, Milk, Bread, Soda
+Chips, Jam, Soda, Peanut, Milk, Bread, Fruit, Cheese
+Cheese, Bread, Soda, Jam, Peanut
+Milk, Bread, Chips, Soda, Fruit
+Bread, Chips, Cheese, Fruit, Peanut, Milk
+Milk, Bread, Fruit
+Bread
+Fruit
+Soda
+Jam, Chips, Fruit, Milk
+Bread, Cheese, Fruit, Milk, Soda, Chips, Jam
+Jam, Cheese
+Peanut, Jam
+Chips, Cheese, Milk
+Peanut, Bread, Fruit, Soda, Milk
+Peanut, Bread, Jam
+Peanut, Fruit
+Cheese, Jam, Bread, Soda, Milk
+Cheese, Peanut, Bread, Fruit, Chips, Soda, Milk
+Bread
+Fruit, Peanut, Bread
+Peanut, Cheese, Fruit
+Jam, Peanut, Milk, Bread
+Fruit, Milk, Peanut, Soda, Bread, Cheese, Jam, Chips
+Jam
+Milk, Fruit, Bread, Chips, Soda, Cheese, Jam
+Milk, Chips, Fruit, Peanut, Soda, Cheese, Bread
+Jam, Milk
+Bread, Soda, Cheese, Jam, Peanut, Fruit, Milk
+Peanut, Milk, Bread, Chips, Fruit, Jam, Soda
+Jam, Soda, Chips, Milk, Cheese, Bread
+Fruit
+Fruit, Jam, Peanut, Soda, Chips, Bread, Milk
+Jam, Cheese
+Jam, Chips, Milk, Bread
+Milk, Bread, Fruit, Soda, Chips, Cheese, Jam, Peanut
+Jam, Bread, Chips, Milk, Fruit, Peanut, Soda, Cheese
+Peanut
+Chips, Fruit, Peanut, Bread
+Cheese, Chips
+Soda, Fruit, Milk
+Soda
+Fruit, Milk, Soda, Cheese, Chips
+Cheese, Fruit, Soda, Jam, Bread
+Soda, Fruit, Jam, Cheese, Bread
+Fruit, Peanut, Milk, Chips, Cheese, Bread
+Jam, Soda, Chips, Milk, Fruit, Peanut, Bread, Cheese
+Fruit
+Bread, Milk, Fruit, Cheese, Chips
+Soda, Bread, Cheese, Chips, Jam, Milk
+Cheese, Soda, Jam, Peanut, Bread, Chips
+Jam, Soda, Milk
+Cheese, Chips, Peanut, Milk, Fruit, Soda
+Bread, Cheese, Chips, Fruit, Jam, Milk, Peanut, Soda
