@@ -1,0 +1,23 @@
+@relation Food_v2
+
+@attribute Bread {Yes}
+@attribute ' Cheese' {Yes}
+@attribute ' Chips' {Yes}
+@attribute ' Fruit' {Yes}
+@attribute ' Jam' {Yes}
+@attribute ' Milk' {Yes}
+@attribute ' Peanuts' {Yes}
+@attribute ' Soda' {Yes}
+@attribute ' Steak' {Yes}
+@attribute ' Yogurt' {Yes}
+
+@data
+Yes,?,?,Yes,Yes,Yes,Yes,?,?,?
+Yes,?,Yes,Yes,Yes,Yes,?,Yes,?,?
+Yes,?,Yes,?,Yes,?,?,Yes,Yes,?
+?,?,?,Yes,Yes,Yes,Yes,Yes,?,?
+Yes,?,Yes,?,Yes,Yes,?,Yes,?,?
+?,?,Yes,?,Yes,Yes,?,Yes,?,?
+?,?,Yes,Yes,?,Yes,?,Yes,?,?
+?,?,?,Yes,?,Yes,Yes,Yes,?,?
+?,Yes,?,Yes,?,?,Yes,?,?,Yes
